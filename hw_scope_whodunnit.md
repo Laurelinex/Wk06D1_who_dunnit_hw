@@ -234,7 +234,7 @@ const scenario = {
 
 const changeScenario = function() {
   scenario.murderer = 'Jennifer';
-  scenario.weapon = 'Molly';
+  scenario.weapon = 'candlestick';
 
   const plotTwist = function(room) {
     if (scenario.room === room) {
